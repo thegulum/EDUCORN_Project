@@ -1,0 +1,42 @@
+.section-3-hmpg {
+    background-image: url("images/achievements-mnpg.jpg"), url("images/3b3c36.png");
+    @include blend-mode;
+    text-align: center;
+    // height:60vh;
+    @include bg-position;
+
+    .achvmnt-text h2 {
+        padding-top: 6rem;
+        color: $colorWhite;
+    }
+
+    .achvmnt-icons {
+        .achvmnt-icon-desc-div {
+            padding-bottom: 6.5rem;
+        }
+
+        margin-top: 4rem;
+        @include flex-align-center-justify-around;
+
+        .number-achvmnt {
+            font-size: 30px;
+        }
+
+        i {
+            font-size: 64px;
+            padding: 20px 0px;
+            color: $colorWhite;
+        }
+
+        span {
+            color: $colorWhite;
+            font-size: 18px;
+            margin-top: 7px;
+        }
+    }
+
+    .block {
+        @include flex;
+        flex-direction: column;
+    }
+}

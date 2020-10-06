@@ -1,0 +1,170 @@
+@import "mixin";
+@import "variables";
+@import "section-3-hmpg";
+@import "section-4-hmpg";
+@import "footer";
+@import "header-top";
+@import "navbar";
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: "Nunito", sans-serif;
+}
+
+
+
+
+
+main {
+    .section-1-hmpg {
+        background-image: url(images/home2-slider-2.jpg);
+        @include bg-position;
+        height: 69vh;
+        @include flex-center-align;
+        justify-content: space-between;
+        @include text-center;
+    }
+
+    .arrows {
+        @include flex;
+
+        .nxt-btn a,
+        .prev-btn a {
+            font-size: 50px;
+            color: $colorWhite;
+            margin: 0px 5rem;
+        }
+    }
+
+    h1,
+    p,
+    a {
+        @include dec-remove;
+        color: $colorWhite;
+    }
+
+    h1 {
+        font-size: 50px;
+    }
+
+    p,
+    a {
+        font-size: 18px;
+        margin-top: 1rem;
+    }
+
+    .ready-btn {
+        margin-top: 3rem;
+        @include border-radius;
+
+        a:hover {
+            @include btn-hover;
+        }
+
+        a {
+            padding: 11px 52px;
+            @include border-radius;
+            border: 1px solid $colorWhite;
+        }
+    }
+
+    @media (max-width: 990px) {
+        header {
+            display: none;
+        }
+    }
+}
+
+.section-2-hmpg {
+    .events-text {
+        padding: 4rem 0px 3.4rem 0px;
+
+        h2 {
+            @include text-center;
+            font-size: 30px;
+        }
+
+        h5 {
+            @include text-center;
+            color: #7e7e7e;
+            margin-top: 1rem;
+            font-size: 18px;
+        }
+    }
+
+    .events-container {
+        @include flex;
+        justify-content: center;
+
+        .event-container {
+            width: 410px;
+            @include bg-position;
+            height: 450px;
+            margin: 0px 1rem;
+            position: relative;
+            border-radius: 10px;
+
+
+            span {
+                display: inline-block;
+                box-shadow: 3px 3px 3px gray;
+                border-radius: 5px;
+                position: absolute;
+                right: 5%;
+                margin-top: 1.5rem;
+            }
+
+            .event-date {
+                @include text-center;
+                font-weight: 600;
+                padding: 18px 10px;
+                background-color: $colorWhite;
+            }
+
+            .event-title {
+                color: $colorWhite;
+                font-size: 20px;
+                position: absolute;
+                font-weight: 900;
+                bottom: 10%;
+                left: 10%;
+            }
+        }
+    }
+}
+
+.ec-one {
+    background-image: url("images/events1.jpg"), url("images/696969.png");
+    @include blend-mode;
+}
+
+.ec-two {
+    background-image: url("https://demoapus.com/edumy/wp-content/uploads/elementor/thumbs/1110-oaw6c53lpo9exc7zvf96ttwqz24zyy1ydsy0nli4h4.jpg"), url("images/696969.png");
+    @include blend-mode;
+}
+
+.ec-three {
+    background-image: url("https://demoapus.com/edumy/wp-content/uploads/elementor/thumbs/10398-oaw6c53lpo9exc7zvf96ttwqz24zyy1ydsy0nli4h4.jpg"), url("images/696969.png");
+    @include blend-mode;
+}
+
+.ec-one:hover,
+.ec-two:hover,
+.ec-three:hover {
+    transition: 0.3s ease-in-out;
+    background-color: #4d4dff;
+}
+
+.circle-slider-sect1-mnpg {
+    @include flex;
+    justify-content: center;
+    padding: 5rem 0px 5rem 0px;
+
+    i {
+        margin: 0px 3px;
+        color: $mainColor;
+        font-size: 13px;
+    }
+}

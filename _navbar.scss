@@ -1,0 +1,40 @@
+nav {
+    background-color: #141414;
+    @include flex-center-align;
+    justify-content: space-around;
+
+    ul {
+        list-style: none;
+        @include flex-center-align;
+
+        a {
+            @include dec-remove;
+            padding: 1rem;
+            color: $grayText;
+        }
+
+        a:hover {
+            @include text-hover;
+        }
+    }
+
+    .log-reg-btns {
+        padding: 0px 1rem;
+        @include flex;
+
+        i {
+            font-size: 20px;
+        }
+
+        a {
+            @include dec-remove;
+            white-space: nowrap;
+            color: $grayText;
+            padding: 20px 20px 20px 0px;
+        }
+
+        a:hover {
+            @include text-hover;
+        }
+    }
+}

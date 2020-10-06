@@ -1,0 +1,77 @@
+@mixin flex {
+    display: flex;
+}
+
+@mixin flex-align-center-justify-around {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+@mixin border-radius {
+    border-radius: 50px;
+}
+
+@mixin dec-remove {
+    text-decoration: none;
+}
+
+@mixin flex-center-align {
+    display: flex;
+    align-items: center;
+}
+
+@mixin text-center {
+    text-align: center;
+}
+
+@mixin btn-hover {
+    transition: 0.5s ease-in-out;
+    background-color: $colorWhite;
+    color: $mainColor;
+}
+
+@mixin text-hover {
+    transition: 0.3s ease;
+    color: $colorWhite;
+}
+
+@font-face {
+    font-family: Poppins;
+    src: "https://fonts.googleapis.com/css2?family=Poppins&display=swap";
+}
+
+@font-face {
+    font-family: Roboto;
+    src: "https://fonts.googleapis.com/css2?family=Roboto&display=swap";
+}
+
+@font-face {
+    font-family: Nunito;
+    src: "https://fonts.googleapis.com/css2?family=Nunito:wght@300;400&display=swap";
+}
+
+
+@mixin position-abs {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+    transform: translateY(-40%);
+}
+
+@mixin bg-position {
+    background-position: center center;
+    background-size: cover;
+}
+
+@mixin blend-mode {
+    filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.7));
+    background-blend-mode: multiply;
+}
+
+@mixin transform-center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
