@@ -1,0 +1,105 @@
+.header-top {
+    .col-12 {
+        background-color: $mainColor;
+        @include flex;
+        @include flex-align-center-justify-around;
+
+
+
+        .top-left-wrapper {
+            margin-left: 4.7rem;
+            @include flex-center-align;
+
+            .logo {
+                a {
+                    img {
+                        width: 8.9rem;
+                        padding: 0.75rem 0px;
+                    }
+                }
+            }
+
+            .library {
+                background-color: $secondMain;
+                margin-left: 2rem;
+                @include border-radius;
+
+                a {
+                    padding: 0.8rem 2rem;
+                    @include flex-center-align;
+
+                    h2 {
+                        color: $colorWhite;
+                        font-size: 16px;
+                        margin-right: 8px;
+                    }
+
+
+                    i {
+                        color: $colorWhite;
+                        font-size: 10px;
+                    }
+                }
+            }
+
+            form {
+                .form-wrapper {
+                    position: relative;
+                    margin-left: 1rem;
+
+                    .search-btn {
+                        padding: 0.8rem 23.8rem 0.8rem 2em;
+                        @include border-radius;
+                    }
+
+                    a {
+                        i {
+                            color: $mainColor;
+                            position: absolute;
+                            right: 0%;
+                            margin-right: 20px;
+                            top: 50%;
+                            transform: translateY(-50%);
+                            font-size: 23px;
+                        }
+                    }
+                }
+            }
+        }
+
+        .tel-lang-wrapper {
+            @include flex-center-align;
+
+            a {
+                color: $grayText;
+                margin-right: 2rem;
+                @include dec-remove;
+            }
+
+            .lang-chc {
+                @include flex-center-align;
+                border-left: 1px solid $borderDiv;
+                padding: 0px 1rem;
+
+                a {
+                    @include flex-center-align;
+
+                    span {
+                        color: $grayText;
+                        padding: 0rem 0.7rem;
+                    }
+
+                    i {
+                        font-size: 10px;
+                        margin: 5px 5px 0px 0px;
+                    }
+                }
+
+                a:hover,
+                span:hover {
+                    @include text-hover;
+                }
+            }
+        }
+    }
+}

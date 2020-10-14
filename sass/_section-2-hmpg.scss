@@ -1,0 +1,105 @@
+.section-2-hmpg {
+    .upcoming-events {
+        .events-text {
+            padding: 4rem 0px 3.4rem 0px;
+
+            h2 {
+                font-size: 30px;
+                @include text-center;
+            }
+
+            h5 {
+                @include text-center;
+                color: #7e7e7e;
+                margin-top: 1rem;
+                font-size: 17px;
+            }
+        }
+
+        .events-container {
+            justify-content: center;
+            @include flex;
+
+            .event-container {
+                width: 410px;
+                height: 450px;
+                margin: 0px 1rem;
+                position: relative;
+                border-radius: 10px;
+                @include bg-position;
+
+                span {
+                    display: inline-block;
+                    box-shadow: 3px 3px 3px gray;
+                    border-radius: 5px;
+                    position: absolute;
+                    right: 5%;
+                    margin-top: 1.5rem;
+                }
+
+                .event-date {
+                    @include text-center;
+                    font-weight: 600;
+                    padding: 18px 10px;
+                    background-color: $colorWhite;
+                }
+
+                .event-title {
+                    color: $colorWhite;
+                    font-size: 20px;
+                    position: absolute;
+                    font-weight: 900;
+                    bottom: 10%;
+                    left: 10%;
+                }
+            }
+
+            .ec-one {
+                background-image: url("images/events1.jpg"), url("images/696969.png");
+                @include blend-mode;
+            }
+
+            .ec-two {
+                background-image: url("https://demoapus.com/edumy/wp-content/uploads/elementor/thumbs/1110-oaw6c53lpo9exc7zvf96ttwqz24zyy1ydsy0nli4h4.jpg"), url("images/696969.png");
+                @include blend-mode;
+            }
+
+            .ec-three {
+                background-image: url("https://demoapus.com/edumy/wp-content/uploads/elementor/thumbs/10398-oaw6c53lpo9exc7zvf96ttwqz24zyy1ydsy0nli4h4.jpg"), url("images/696969.png");
+                @include blend-mode;
+            }
+
+            .ec-one:hover,
+            .ec-two:hover,
+            .ec-three:hover {
+                transition: 0.3s ease-in-out;
+                background-color: #4d4dff;
+            }
+        }
+    }
+
+    .circle-slider-sect1-mnpg {
+        @include flex;
+        justify-content: center;
+        padding: 3rem 0px 4rem 0px;
+
+        a {
+            @include flex-center-align;
+            text-decoration: none;
+
+            i {
+                margin: 0px 6px;
+            }
+
+            .left-circle {
+                color: #c7c7c7;
+                font-size: 8px;
+            }
+
+            .right-circle {
+                color: #0a0a0a;
+                font-size: 13.3px;
+            }
+        }
+    }
+}

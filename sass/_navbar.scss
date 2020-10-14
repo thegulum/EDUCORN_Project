@@ -1,0 +1,51 @@
+nav {
+    background-color: #141414;
+    justify-content: space-between;
+    @include flex-center-align;
+
+
+    ul {
+        list-style: none;
+        margin-left: 5.5rem;
+        @include flex-center-align;
+
+        li {
+            a {
+                padding: 1rem;
+                color: $grayText;
+                @include dec-remove;
+
+                i {
+                    font-size: 10px;
+                }
+            }
+
+            a:hover {
+                @include text-hover;
+            }
+        }
+    }
+
+    .log-reg-btns {
+        padding: 0px 1rem;
+        margin-right: 3rem;
+        @include flex-center-align;
+
+        i {
+            font-size: 20px;
+            color: $grayText;
+        }
+
+        a {
+            white-space: nowrap;
+            color: $grayText;
+            padding: 20px 20px 20px 0px;
+            @include dec-remove;
+        }
+
+        a:hover,
+        i:hover {
+            @include text-hover;
+        }
+    }
+}

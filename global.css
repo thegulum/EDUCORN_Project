@@ -2,290 +2,846 @@
   font-family: Poppins;
   src: "https://fonts.googleapis.com/css2?family=Poppins&display=swap";
 }
+
 @font-face {
   font-family: Roboto;
   src: "https://fonts.googleapis.com/css2?family=Roboto&display=swap";
 }
+
 @font-face {
   font-family: Nunito;
   src: "https://fonts.googleapis.com/css2?family=Nunito:wght@300;400&display=swap";
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-3-hmpg\.scss}line{font-family:\000031}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-3-hmpg\.scss
+  }
+
+  line {
+    font-family: \000031
+  }
+}
+
 .section-3-hmpg {
   background-image: url("images/achievements-mnpg.jpg"), url("images/3b3c36.png");
-  filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.7));
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   background-blend-mode: multiply;
   text-align: center;
   background-position: center center;
   background-size: cover;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-3-hmpg\.scss}line{font-family:\000038}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-3-hmpg\.scss
+  }
+
+  line {
+    font-family: \000039
+  }
+}
+
 .section-3-hmpg .achvmnt-text h2 {
-  padding-top: 6rem;
+  padding-top: 4.5rem;
   color: #fff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-3-hmpg\.scss}line{font-family:\0000313}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-3-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000315
+  }
+}
+
 .section-3-hmpg .achvmnt-icons {
   margin-top: 4rem;
   display: flex;
   align-items: center;
   justify-content: space-around;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-3-hmpg\.scss}line{font-family:\0000314}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-3-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000319
+  }
+}
+
 .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div {
   padding-bottom: 6.5rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-3-hmpg\.scss}line{font-family:\0000321}}
-.section-3-hmpg .achvmnt-icons .number-achvmnt {
-  font-size: 30px;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-3-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000323
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-3-hmpg\.scss}line{font-family:\0000325}}
-.section-3-hmpg .achvmnt-icons i {
+
+.section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div i {
   font-size: 64px;
   padding: 20px 0px;
   color: #fff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-3-hmpg\.scss}line{font-family:\0000331}}
-.section-3-hmpg .achvmnt-icons span {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-3-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000329
+  }
+}
+
+.section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div .number-achvmnt {
+  font-size: 30px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-3-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000333
+  }
+}
+
+.section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div span {
   color: #fff;
   font-size: 18px;
   margin-top: 7px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-3-hmpg\.scss}line{font-family:\0000338}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-3-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000341
+  }
+}
+
 .section-3-hmpg .block {
   display: flex;
   flex-direction: column;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\000037}}
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \000037
+  }
+}
+
 .section-4-hmpg {
   background-color: #192675;
-  margin-top: 7rem;
+  margin-top: 5rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000313}}
-.section-4-hmpg .space {
-  height: 1vh;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000311
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000317}}
+
 .section-4-hmpg .pop-courses-heading {
-  margin-top: 1rem;
+  padding-top: 1rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000320}}
-.section-4-hmpg .pop-courses-heading h2,
-.section-4-hmpg .pop-courses-heading h3 {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000314
+  }
+}
+
+.section-4-hmpg .pop-courses-heading h2 {
+  margin-top: 2rem;
   text-align: center;
   color: #fff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000326}}
-.section-4-hmpg .pop-courses-heading h2 {
-  margin-top: 3rem;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000319
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000330}}
+
 .section-4-hmpg .pop-courses-heading h3 {
   margin-top: 1.5rem;
+  text-align: center;
+  color: #fff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000335}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000325
+  }
+}
+
 .section-4-hmpg .pop-courses-container {
-  display: flex;
   justify-content: space-around;
   margin-top: 4rem;
   padding-bottom: 5rem;
+  display: flex;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000341}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000331
+  }
+}
+
 .section-4-hmpg .pop-courses-container .arrows {
   display: flex;
   align-items: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000344}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000334
+  }
+}
+
 .section-4-hmpg .pop-courses-container .arrows .arrow-right-market i,
 .section-4-hmpg .pop-courses-container .arrows .arrow-left-market i {
   font-size: 50px;
-  color: #fff;
+  color: rgba(255, 255, 255, 0.9);
   margin: 0px 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000352}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000342
+  }
+}
+
 .section-4-hmpg .pop-courses-container .pop-course {
   background-color: #fff;
   margin: 0px 1rem;
   border-radius: 10px;
   box-shadow: 3px 3px 3px gray;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000358}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000348
+  }
+}
+
 .section-4-hmpg .pop-courses-container .pop-course .pop-img {
   position: relative;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000362}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000351
+  }
+}
+
 .section-4-hmpg .pop-courses-container .pop-course .pop-img img {
   width: 236px;
   height: 153px;
-  background-position: center center;
-  background-size: cover;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   box-shadow: 0px 0px 0px gray;
+  background-position: center center;
+  background-size: cover;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000371}}
-.section-4-hmpg .pop-courses-container .pop-course .img-text-hover {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000360
+  }
+}
+
+.section-4-hmpg .pop-courses-container .pop-course .pop-img img:hover {
+  transform: scale(1.05);
+  transition: 0.3s ease;
+  opacity: 0.6;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000367
+  }
+}
+
+.section-4-hmpg .pop-courses-container .pop-course .pop-img .img-text-hover {
+  color: #000;
+  white-space: nowrap;
+  text-align: center;
+  visibility: hidden;
   position: absolute;
   left: 50%;
   top: 50%;
   transform: translate(-50%, -50%);
-  color: #fff;
-  white-space: nowrap;
-  text-align: center;
-  visibility: hidden;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000381}}
-.section-4-hmpg .pop-courses-container .pop-course .pop-img img:hover .img-text-hover {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000375
+  }
+}
+
+.section-4-hmpg .pop-courses-container .pop-course .pop-img .img-text-hover:hover {
   visibility: visible;
-  transform: scale(1.2);
-  transition: 0.3s ease-in-out;
-  background-color: limegreen;
-  opacity: 0.3;
+  color: magenta;
+  background-color: purple;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000390}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000382
+  }
+}
+
 .section-4-hmpg .pop-courses-container .pop-course .pop-course-desc {
   margin-left: 1rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\0000393}}
-.section-4-hmpg .pop-courses-container .pop-course .pop-course-desc h3,
-.section-4-hmpg .pop-courses-container .pop-course .pop-course-desc p {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000385
+  }
+}
+
+.section-4-hmpg .pop-courses-container .pop-course .pop-course-desc a {
+  text-decoration: none;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000388
+  }
+}
+
+.section-4-hmpg .pop-courses-container .pop-course .pop-course-desc a h3,
+.section-4-hmpg .pop-courses-container .pop-course .pop-course-desc a p {
   margin-left: 0rem;
   font-family: "Open Sans", Helvetica, Arial, sans-serif;
   text-align: left;
-  white-space: pre-wrap;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\00003101}}
-.section-4-hmpg .pop-courses-container .pop-course .pop-course-desc h3 {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000395
+  }
+}
+
+.section-4-hmpg .pop-courses-container .pop-course .pop-course-desc a h3 {
   margin-top: 1.5rem;
   color: #7e7e7e;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_section-4-hmpg\.scss}line{font-family:\00003106}}
-.section-4-hmpg .pop-courses-container .pop-course .pop-course-desc p {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-4-hmpg\.scss
+  }
+
+  line {
+    font-family: \00003100
+  }
+}
+
+.section-4-hmpg .pop-courses-container .pop-course .pop-course-desc a p {
   margin-top: 2rem;
   color: #000;
   font-family: "Nunito", sans-serif;
   padding: 0px 0px 3rem 0px;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\000031}}
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \000031
+  }
+}
+
 .footer-section {
   margin-top: 5rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\000036}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \000036
+  }
+}
+
 .footer-section .footer-container .footer-info-container {
   background-color: #151515;
-  display: flex;
   justify-content: space-around;
+  display: flex;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000311}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000311
+  }
+}
+
 .footer-section .footer-container .footer-info-container li,
 .footer-section .footer-container .footer-info-container h2 {
   color: #fff;
   list-style: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000317}}
-.footer-section .footer-container .footer-info-container a {
-  text-decoration: none;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000317
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000320}}
-.footer-section .footer-container .footer-info-container a li:hover {
-  transition: 0.3s ease;
-  color: #fff;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000325}}
+
 .footer-section .footer-container .footer-info-container h2 {
   margin-top: 5rem;
+  font-size: 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000329}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000322
+  }
+}
+
 .footer-section .footer-container .footer-info-container li {
   margin-top: 2rem;
   color: #969696;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000338}}
-.footer-section .footer-container .footer-info-container .mobile-footer .phone-footer {
-  box-sizing: content-box;
-  display: flex;
-  padding: 1rem 3rem 1rem 1rem;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000328
+  }
+}
+
+.footer-section .footer-container .footer-info-container a {
+  text-decoration: none;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000331
+  }
+}
+
+.footer-section .footer-container .footer-info-container a li:hover {
+  position: relative;
+  animation-name: text-forward;
+  animation-iteration-count: 1;
+  animation-duration: 0.2s;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
+  transition: 0.3s ease;
+  color: #fff;
+}
+
+@keyframes text-forward {
+  0% {
+    left: 0px;
+    top: 0px;
+  }
+
+  100% {
+    left: 10px;
+    top: 0px;
+  }
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000352
+  }
+}
+
+.footer-section .footer-container .footer-info-container .mobile-footer a .phone-footer {
+  padding: 0.85rem 3.5rem 0.85rem 1rem;
   background-color: #000;
   border-radius: 5px;
   margin: 1rem 0px;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000346}}
-.footer-section .footer-container .footer-info-container .mobile-footer .phone-footer a {
   display: flex;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000349}}
-.footer-section .footer-container .footer-info-container .mobile-footer .phone-footer a i {
-  font-size: 50px;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000359
+  }
+}
+
+.footer-section .footer-container .footer-info-container .mobile-footer a .phone-footer i {
+  font-size: 35px;
   color: #969696;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000354}}
-.footer-section .footer-container .footer-info-container .mobile-footer .phone-footer a span {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000365
+  }
+}
+
+.footer-section .footer-container .footer-info-container .mobile-footer a .phone-footer .footer-phone-text span {
   display: block;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000358}}
-.footer-section .footer-container .footer-info-container .mobile-footer .phone-footer a .top-phone-text {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000369
+  }
+}
+
+.footer-section .footer-container .footer-info-container .mobile-footer a .phone-footer .footer-phone-text .top-phone-text {
   color: #fff;
   margin-left: 20px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000364}}
-.footer-section .footer-container .footer-info-container .mobile-footer .phone-footer a .bottom-phone-text {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000374
+  }
+}
+
+.footer-section .footer-container .footer-info-container .mobile-footer a .phone-footer .footer-phone-text .bottom-phone-text {
   margin-top: 4px;
   color: #969696;
   margin-left: 20px;
+  font-size: 13px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000377}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000388
+  }
+}
+
 .footer-section .footer-container .footer-navbar-container nav {
   border-top: 1px solid #383838;
-  display: flex;
   justify-content: space-between;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000382}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000392
+  }
+}
+
 .footer-section .footer-container .footer-navbar-container nav .footer-navbar {
+  margin-left: 5.3rem;
   display: flex;
   align-items: center;
-  margin-left: 5.3rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000386}}
-.footer-section .footer-container .footer-navbar-container nav .footer-navbar .footer-logo img {
-  width: 8.9rem;
-  padding: 1rem 0px;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \0000396
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000392}}
+
 .footer-section .footer-container .footer-navbar-container nav .footer-navbar .footer-logo {
   border-right: 1px solid #383838;
   padding: 0px 2rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\0000397}}
-.footer-section .footer-container .footer-navbar-container nav .footer-navbar li {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \00003100
+  }
+}
+
+.footer-section .footer-container .footer-navbar-container nav .footer-navbar .footer-logo img {
+  width: 8.9rem;
+  padding: 1rem 0px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \00003112
+  }
+}
+
+.footer-section .footer-container .footer-navbar-container nav .navigator-footer ul a {
+  text-decoration: none;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \00003115
+  }
+}
+
+.footer-section .footer-container .footer-navbar-container nav .navigator-footer ul a li {
+  color: #969696;
   padding: 0px 2rem;
-  color: #fff;
   display: flex;
   align-items: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\00003108}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \00003122
+  }
+}
+
 .footer-section .footer-container .footer-navbar-container nav .navigator-footer ul a li:hover {
   transition: 0.3s ease;
   color: #fff;
+  position: relative;
+  animation-name: text-forward;
+  animation-iteration-count: 1;
+  animation-duration: 0.2s;
+  animation-timing-function: ease;
+  animation-fill-mode: forwards;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\00003111}}
-.footer-section .footer-container .footer-navbar-container nav .navigator-footer ul a li {
-  color: #969696;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \00003132
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\00003119}}
+
 .footer-section .footer-container .footer-navbar-container nav .sm-footer {
   margin-right: 6.2rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\00003123}}
+
+@keyframes sm-grow {
+  0% {
+    scale: 1;
+  }
+
+  100% {
+    scale: 1.5;
+  }
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \00003145
+  }
+}
+
 .footer-section .footer-container .footer-navbar-container nav .sm-footer ul {
   display: flex;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\00003127}}
-.footer-section .footer-container .footer-navbar-container nav .sm-footer li {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \00003150
+  }
+}
+
+.footer-section .footer-container .footer-navbar-container nav .sm-footer ul a li {
   color: #969696;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_footer\.scss}line{font-family:\00003135}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \00003153
+  }
+}
+
+.footer-section .footer-container .footer-navbar-container nav .sm-footer ul a li i {
+  font-size: 18px;
+  margin: 0px 1rem;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \00003158
+  }
+}
+
+.footer-section .footer-container .footer-navbar-container nav .sm-footer ul a li i:hover {
+  transition: 0.3s ease;
+  color: #fff;
+  animation-name: sm-grow;
+  animation-duration: 0.3s;
+  animation-iteration-count: 1;
+  animation-timing-function: ease;
+  animation-fill-mode: both;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_footer\.scss
+  }
+
+  line {
+    font-family: \00003170
+  }
+}
+
 .footer-section .copyright {
   background-color: #000;
   text-align: center;
@@ -293,160 +849,432 @@
   padding: 1.6rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\000032}}
-header .header-top {
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \000032
+  }
+}
+
+.header-top .col-12 {
+  background-color: #000;
   display: flex;
   display: flex;
   align-items: center;
   justify-content: space-around;
-  background-color: #000;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\000033}}
-header .header-top .top-left-wrapper {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \000039
+  }
+}
+
+.header-top .col-12 .top-left-wrapper {
   margin-left: 4.7rem;
-}
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000311}}
-header .header-top .top-left-wrapper {
   display: flex;
   align-items: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000315}}
-header .header-top .logo img {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000315
+  }
+}
+
+.header-top .col-12 .top-left-wrapper .logo a img {
   width: 8.9rem;
   padding: 0.75rem 0px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000320}}
-header .header-top .library {
-  background-color: #2441e7;
-  border-radius: 50px;
-  margin-left: 2rem;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000322
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000325}}
-header .header-top .library a {
+
+.header-top .col-12 .top-left-wrapper .library {
+  background-color: #2441e7;
+  margin-left: 2rem;
+  border-radius: 50px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000327
+  }
+}
+
+.header-top .col-12 .top-left-wrapper .library a {
+  padding: 0.8rem 2rem;
   display: flex;
   align-items: center;
-  padding: 0.8rem 2rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000330}}
-header .header-top .library h2 {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000331
+  }
+}
+
+.header-top .col-12 .top-left-wrapper .library a h2 {
   color: #fff;
   font-size: 16px;
   margin-right: 8px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000336}}
-header .header-top .library i {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000338
+  }
+}
+
+.header-top .col-12 .top-left-wrapper .library a i {
   color: #fff;
   font-size: 10px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000343}}
-header .header-top form .form-wrapper {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000346
+  }
+}
+
+.header-top .col-12 .top-left-wrapper form .form-wrapper {
   position: relative;
   margin-left: 1rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000347}}
-header .header-top form .form-wrapper .search-btn {
-  padding: 0.8rem 11.8rem 0.8rem 14rem;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000350
+  }
+}
+
+.header-top .col-12 .top-left-wrapper form .form-wrapper .search-btn {
+  padding: 0.8rem 23.8rem 0.8rem 2em;
   border-radius: 50px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000352}}
-header .header-top form .form-wrapper i {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000356
+  }
+}
+
+.header-top .col-12 .top-left-wrapper form .form-wrapper a i {
   color: #000;
   position: absolute;
   right: 0%;
   margin-right: 20px;
   top: 50%;
   transform: translateY(-50%);
-  font-size: 30px;
+  font-size: 23px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000365}}
-header .tel-lang-wrapper {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000370
+  }
+}
+
+.header-top .col-12 .tel-lang-wrapper {
   display: flex;
   align-items: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000368}}
-header .tel-lang-wrapper a {
-  text-decoration: none;
-  color: #7e7e7e;
-  margin-right: 2rem;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000373
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000374}}
-header .tel-lang-wrapper .lang-chc {
+
+.header-top .col-12 .tel-lang-wrapper a {
+  color: #a4a4a4;
+  margin-right: 2rem;
+  text-decoration: none;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000379
+  }
+}
+
+.header-top .col-12 .tel-lang-wrapper .lang-chc {
+  display: flex;
+  align-items: center;
   border-left: 1px solid #7e7e7e;
   padding: 0px 1rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000378}}
-header .tel-lang-wrapper .lang-chc a {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000384
+  }
+}
+
+.header-top .col-12 .tel-lang-wrapper .lang-chc a {
   display: flex;
   align-items: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000382}}
-header .tel-lang-wrapper .lang-chc a:hover,
-header .tel-lang-wrapper .lang-chc h4:hover {
-  transition: 0.3s ease;
-  color: #fff;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000387
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_header-top\.scss}line{font-family:\0000387}}
-header .tel-lang-wrapper .lang-chc h4 {
+
+.header-top .col-12 .tel-lang-wrapper .lang-chc a span {
   color: #a4a4a4;
   padding: 0rem 0.7rem;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_navbar\.scss}line{font-family:\000031}}
-nav {
-  background-color: #141414;
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000392
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_navbar\.scss}line{font-family:\000036}}
-nav ul {
-  list-style: none;
-  display: flex;
-  align-items: center;
+
+.header-top .col-12 .tel-lang-wrapper .lang-chc a i {
+  font-size: 10px;
+  margin: 5px 5px 0px 0px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_navbar\.scss}line{font-family:\0000310}}
-nav ul a {
-  text-decoration: none;
-  padding: 1rem;
-  color: #a4a4a4;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_header-top\.scss
+  }
+
+  line {
+    font-family: \0000398
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_navbar\.scss}line{font-family:\0000316}}
-nav ul a:hover {
+
+.header-top .col-12 .tel-lang-wrapper .lang-chc a:hover,
+.header-top .col-12 .tel-lang-wrapper .lang-chc span:hover {
   transition: 0.3s ease;
   color: #fff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_navbar\.scss}line{font-family:\0000321}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_navbar\.scss
+  }
+
+  line {
+    font-family: \000031
+  }
+}
+
+nav {
+  background-color: #141414;
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_navbar\.scss
+  }
+
+  line {
+    font-family: \000037
+  }
+}
+
+nav ul {
+  list-style: none;
+  margin-left: 5.5rem;
+  display: flex;
+  align-items: center;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_navbar\.scss
+  }
+
+  line {
+    font-family: \0000313
+  }
+}
+
+nav ul li a {
+  padding: 1rem;
+  color: #a4a4a4;
+  text-decoration: none;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_navbar\.scss
+  }
+
+  line {
+    font-family: \0000318
+  }
+}
+
+nav ul li a i {
+  font-size: 10px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_navbar\.scss
+  }
+
+  line {
+    font-family: \0000323
+  }
+}
+
+nav ul li a:hover {
+  transition: 0.3s ease;
+  color: #fff;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_navbar\.scss
+  }
+
+  line {
+    font-family: \0000329
+  }
+}
+
 nav .log-reg-btns {
   padding: 0px 1rem;
+  margin-right: 3rem;
   display: flex;
+  align-items: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_navbar\.scss}line{font-family:\0000325}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_navbar\.scss
+  }
+
+  line {
+    font-family: \0000334
+  }
+}
+
 nav .log-reg-btns i {
   font-size: 20px;
+  color: #a4a4a4;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_navbar\.scss}line{font-family:\0000329}}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_navbar\.scss
+  }
+
+  line {
+    font-family: \0000339
+  }
+}
+
 nav .log-reg-btns a {
-  text-decoration: none;
   white-space: nowrap;
   color: #a4a4a4;
   padding: 20px 20px 20px 0px;
+  text-decoration: none;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/_navbar\.scss}line{font-family:\0000336}}
-nav .log-reg-btns a:hover {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_navbar\.scss
+  }
+
+  line {
+    font-family: \0000346
+  }
+}
+
+nav .log-reg-btns a:hover,
+nav .log-reg-btns i:hover {
   transition: 0.3s ease;
   color: #fff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\000039}}
-* {
-  padding: 0px;
-  margin: 0px;
-  box-sizing: border-box;
-  font-family: "Nunito", sans-serif;
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-1-hmpg\.scss
+  }
+
+  line {
+    font-family: \000031
+  }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000321}}
-main .section-1-hmpg {
+.section-1-hmpg {
   background-image: url(images/home2-slider-2.jpg);
   background-position: center center;
   background-size: cover;
@@ -456,91 +1284,224 @@ main .section-1-hmpg {
   justify-content: space-between;
   text-align: center;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000330}}
-main .arrows {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-1-hmpg\.scss
+  }
+
+  line {
+    font-family: \000039
+  }
+}
+
+.section-1-hmpg .arrows {
   display: flex;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000333}}
-main .arrows .nxt-btn a,
-main .arrows .prev-btn a {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-1-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000312
+  }
+}
+
+.section-1-hmpg .arrows .nxt-btn a,
+.section-1-hmpg .arrows .prev-btn a {
   font-size: 50px;
   color: #fff;
-  margin: 0px 5rem;
+  margin: 0px 5rem 0px 5rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000341}}
-main h1,
-main p,
-main a {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-1-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000322
+  }
+}
+
+.section-1-hmpg .slider-desc h1,
+.section-1-hmpg .slider-desc p,
+.section-1-hmpg .slider-desc a {
   text-decoration: none;
   color: #fff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000348}}
-main h1 {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-1-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000329
+  }
+}
+
+.section-1-hmpg .slider-desc h1 {
   font-size: 50px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000352}}
-main p,
-main a {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-1-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000333
+  }
+}
+
+.section-1-hmpg .slider-desc p,
+.section-1-hmpg .slider-desc a {
   font-size: 18px;
   margin-top: 1rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000358}}
-main .ready-btn {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-1-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000339
+  }
+}
+
+.section-1-hmpg .slider-desc .ready-btn {
   margin-top: 3rem;
   border-radius: 50px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000362}}
-main .ready-btn a:hover {
-  transition: 0.5s ease-in-out;
-  background-color: #fff;
-  color: #000;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-1-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000343
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000366}}
-main .ready-btn a {
+
+.section-1-hmpg .slider-desc .ready-btn a {
   padding: 11px 52px;
   border-radius: 50px;
   border: 1px solid #fff;
 }
-@media (max-width: 990px) {
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000374}}
-  main header {
-    display: none;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-1-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000349
   }
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000381}}
-.section-2-hmpg .events-text {
+.section-1-hmpg .slider-desc .ready-btn a:hover {
+  transition: 0.3s ease;
+  background-color: #fff;
+  color: #000;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \000033
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-text {
   padding: 4rem 0px 3.4rem 0px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000384}}
-.section-2-hmpg .events-text h2 {
-  text-align: center;
-  font-size: 30px;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \000036
+  }
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000389}}
-.section-2-hmpg .events-text h5 {
+
+.section-2-hmpg .upcoming-events .events-text h2 {
+  font-size: 30px;
+  text-align: center;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000311
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-text h5 {
   text-align: center;
   color: #7e7e7e;
   margin-top: 1rem;
-  font-size: 18px;
+  font-size: 17px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\0000397}}
-.section-2-hmpg .events-container {
-  display: flex;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000319
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-container {
   justify-content: center;
+  display: flex;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\00003101}}
-.section-2-hmpg .events-container .event-container {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000323
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-container .event-container {
   width: 410px;
-  background-position: center center;
-  background-size: cover;
   height: 450px;
   margin: 0px 1rem;
   position: relative;
   border-radius: 10px;
+  background-position: center center;
+  background-size: cover;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\00003110}}
-.section-2-hmpg .events-container .event-container span {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000331
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-container .event-container span {
   display: inline-block;
   box-shadow: 3px 3px 3px gray;
   border-radius: 5px;
@@ -548,15 +1509,35 @@ main .ready-btn a {
   right: 5%;
   margin-top: 1.5rem;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\00003119}}
-.section-2-hmpg .events-container .event-container .event-date {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000340
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-container .event-container .event-date {
   text-align: center;
   font-weight: 600;
   padding: 18px 10px;
   background-color: #fff;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\00003126}}
-.section-2-hmpg .events-container .event-container .event-title {
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000347
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-container .event-container .event-title {
   color: #fff;
   font-size: 20px;
   position: absolute;
@@ -565,46 +1546,1236 @@ main .ready-btn a {
   left: 10%;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\00003138}}
-.ec-one {
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000357
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-container .ec-one {
   background-image: url("images/events1.jpg"), url("images/696969.png");
-  filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.7));
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   background-blend-mode: multiply;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\00003143}}
-.ec-two {
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000362
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-container .ec-two {
   background-image: url("https://demoapus.com/edumy/wp-content/uploads/elementor/thumbs/1110-oaw6c53lpo9exc7zvf96ttwqz24zyy1ydsy0nli4h4.jpg"), url("images/696969.png");
-  filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.7));
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   background-blend-mode: multiply;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\00003148}}
-.ec-three {
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000367
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-container .ec-three {
   background-image: url("https://demoapus.com/edumy/wp-content/uploads/elementor/thumbs/10398-oaw6c53lpo9exc7zvf96ttwqz24zyy1ydsy0nli4h4.jpg"), url("images/696969.png");
-  filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, 0.7));
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);
   background-blend-mode: multiply;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\00003153}}
-.ec-one:hover,
-.ec-two:hover,
-.ec-three:hover {
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000372
+  }
+}
+
+.section-2-hmpg .upcoming-events .events-container .ec-one:hover,
+.section-2-hmpg .upcoming-events .events-container .ec-two:hover,
+.section-2-hmpg .upcoming-events .events-container .ec-three:hover {
   transition: 0.3s ease-in-out;
   background-color: #4d4dff;
 }
 
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\00003160}}
-.circle-slider-sect1-mnpg {
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000381
+  }
+}
+
+.section-2-hmpg .circle-slider-sect1-mnpg {
   display: flex;
   justify-content: center;
-  padding: 5rem 0px 5rem 0px;
+  padding: 3rem 0px 4rem 0px;
 }
-@media -sass-debug-info{filename{font-family:file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\%20-\%20Copy\%20\(2\)\/global\.scss}line{font-family:\00003165}}
-.circle-slider-sect1-mnpg i {
-  margin: 0px 3px;
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000386
+  }
+}
+
+.section-2-hmpg .circle-slider-sect1-mnpg a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000390
+  }
+}
+
+.section-2-hmpg .circle-slider-sect1-mnpg a i {
+  margin: 0px 6px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000394
+  }
+}
+
+.section-2-hmpg .circle-slider-sect1-mnpg a .left-circle {
+  color: #c7c7c7;
+  font-size: 8px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/sass\/_section-2-hmpg\.scss
+  }
+
+  line {
+    font-family: \0000399
+  }
+}
+
+.section-2-hmpg .circle-slider-sect1-mnpg a .right-circle {
+  color: #0a0a0a;
+  font-size: 13.3px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000311
+  }
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  font-family: "Nunito", sans-serif;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000317
+  }
+}
+
+* ::selection {
+  background-color: #228B22;
   color: #000;
-  font-size: 13px;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000333
+  }
+}
+
+.col-1 {
+  width: 8.33%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000337
+  }
+}
+
+.col-2 {
+  width: 16.66%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000341
+  }
+}
+
+.col-3 {
+  width: 25%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000345
+  }
+}
+
+.col-4 {
+  width: 33.33%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000349
+  }
+}
+
+.col-5 {
+  width: 41.66%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000353
+  }
+}
+
+.col-6 {
+  width: 50%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000357
+  }
+}
+
+.col-7 {
+  width: 58.33%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000361
+  }
+}
+
+.col-8 {
+  width: 66.66%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000365
+  }
+}
+
+.col-9 {
+  width: 75%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000369
+  }
+}
+
+.col-10 {
+  width: 83.33%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000373
+  }
+}
+
+.col-11 {
+  width: 91.66%;
+}
+
+@media -sass-debug-info {
+  filename {
+    font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+  }
+
+  line {
+    font-family: \0000377
+  }
+}
+
+.col-12 {
+  width: 100%;
+}
+
+@media (min-width: 1202px) {
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \0000394
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003101
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .arrows .arrow-right-market i,
+  .section-4-hmpg .pop-courses-container .arrows .arrow-left-market i {
+    font-size: 40px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003107
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .pop-course {
+    margin: 1rem 0px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003112
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .pop-course .pop-img img {
+    width: 220px;
+    height: 190px;
+    background-position: center center;
+    background-size: cover;
+  }
+}
+
+@media (max-width: 1200px) {
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003141
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-text h2 {
+    font-size: 28px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003145
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-text h5 {
+    font-size: 16px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003152
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container {
+    width: 360px;
+    height: 400px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003158
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container .event-date {
+    padding: 15px 7px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003172
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div i {
+    font-size: 58px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003176
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div .number-achvmnt {
+    font-size: 26;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003180
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div span {
+    font-size: 16px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003197
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container {
+    justify-content: space-between;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003205
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .arrows .arrow-right-market i,
+  .section-4-hmpg .pop-courses-container .arrows .arrow-left-market i {
+    font-size: 32px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003211
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .pop-course {
+    margin: 1rem 0px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003216
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .pop-course .pop-img img {
+    width: 490px;
+    height: 390px;
+    background-position: center center;
+    background-size: cover;
+  }
+}
+
+@media (max-width: 992px) {
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003246
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-text h2 {
+    font-size: 23px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003250
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-text h5 {
+    font-size: 15px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003257
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container {
+    width: 280px;
+    height: 280px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003263
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container .event-date {
+    font-size: 12px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003267
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container .event-title {
+    font-size: 19px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003279
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div i {
+    font-size: 48px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003283
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div .number-achvmnt {
+    font-size: 26px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003287
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div span {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 768px) {
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003299
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-text h2 {
+    font-size: 23px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003303
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-text h5 {
+    font-size: 15px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003309
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container {
+    width: 220px;
+    height: 220px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003313
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container .event-date {
+    font-size: 8px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003317
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container .event-title {
+    font-size: 16px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003328
+    }
+  }
+
+  .section-3-hmpg .achvmnt-text h2 {
+    font-size: 20px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003335
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div i {
+    font-size: 40px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003339
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div .number-achvmnt {
+    font-size: 22px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003343
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div span {
+    font-size: 15px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003356
+    }
+  }
+
+  .section-4-hmpg .pop-courses-heading h3 {
+    font-size: 18px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003361
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container {
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003369
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .arrows .arrow-right-market i,
+  .section-4-hmpg .pop-courses-container .arrows .arrow-left-market i {
+    font-size: 36px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003375
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .pop-course {
+    margin: 1rem 0px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003380
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .pop-course .pop-img img {
+    width: 300px;
+    height: 200px;
+    background-position: center center;
+    background-size: cover;
+  }
+}
+
+@media (max-width: 600px) {
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003412
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-text h2 {
+    font-size: 24px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003416
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-text h5 {
+    font-size: 16px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003421
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003426
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container {
+    margin: 1rem 0px;
+    width: 300px;
+    height: 340px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003433
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container .event-date {
+    font-size: 16px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003437
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container .event-title {
+    font-size: 21px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003445
+    }
+  }
+
+  .section-3-hmpg {
+    flex-direction: column;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003451
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons {
+    display: flex;
+    flex-direction: column;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003456
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div i {
+    font-size: 48px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003460
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div .number-achvmnt {
+    font-size: 24px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003464
+    }
+  }
+
+  .section-3-hmpg .achvmnt-icons .achvmnt-icon-desc-div span {
+    font-size: 18px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003475
+    }
+  }
+
+  .section-4-hmpg .pop-courses-heading h2 {
+    font-size: 20px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003479
+    }
+  }
+
+  .section-4-hmpg .pop-courses-heading h3 {
+    font-size: 15px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003484
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container {
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003492
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .arrows .arrow-right-market i,
+  .section-4-hmpg .pop-courses-container .arrows .arrow-left-market i {
+    font-size: 36px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003498
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .pop-course {
+    margin: 1rem 0px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003503
+    }
+  }
+
+  .section-4-hmpg .pop-courses-container .pop-course .pop-img img {
+    width: 230px;
+    height: 130px;
+    background-position: center center;
+    background-size: cover;
+  }
+}
+
+@media (max-width: 357px) {
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003532
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-text h2 {
+    font-size: 20px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003536
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-text h5 {
+    font-size: 14px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003541
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003546
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container {
+    margin: 1rem 0px;
+    width: 200px;
+    height: 240px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003553
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container .event-date {
+    font-size: 12px;
+  }
+
+  @media -sass-debug-info {
+    filename {
+      font-family: file\:\/\/C\:\/Users\/New\%20User\/OneDrive\/Desktop\/educorn\/global\.scss
+    }
+
+    line {
+      font-family: \00003557
+    }
+  }
+
+  .section-2-hmpg .upcoming-events .events-container .event-container .event-title {
+    font-size: 18px;
+  }
 }
 
 /*# sourceMappingURL=global.css.map */

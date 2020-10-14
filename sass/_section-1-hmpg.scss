@@ -1,0 +1,58 @@
+.section-1-hmpg {
+  background-image: url(images/home2-slider-2.jpg);
+  @include bg-position;
+  height: 69vh;
+  @include flex-center-align;
+  justify-content: space-between;
+  @include text-center;
+
+  .arrows {
+    @include flex;
+
+    .nxt-btn a,
+    .prev-btn a {
+      font-size: 50px;
+      color: $colorWhite;
+      margin: 0px 5rem 0px 5rem;
+    }
+  }
+
+  .slider-desc {
+    h1,
+    blockquote,
+    a {
+      @include dec-remove;
+      color: $colorWhite;
+    }
+
+    h1 {
+      font-size: 50px;
+    }
+
+    a {
+      font-size: 18px;
+      margin-top: 1rem;
+    }
+
+    .ready-btn {
+      margin-top: 3rem;
+      @include border-radius;
+
+      a {
+        padding: 11px 52px;
+        @include border-radius;
+        border: 1px solid $colorWhite;
+      }
+
+      a:hover {
+        @include btn-hover;
+      }
+    }
+  }
+}
+
+// @media (max-width: 990px) {
+//     header {
+//         display: none;
+//     }
+// }
